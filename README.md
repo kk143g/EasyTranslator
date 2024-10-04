@@ -1,4 +1,4 @@
-# Text translation using Google MLKIt
+# Text translation using Google MLKit
 
 ## Note: EasyTranslator Pod/SPM coming soon (work in progress)
 
